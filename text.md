@@ -4,6 +4,8 @@ HTTP protocol:
 	-> POST - when a client wants to make changes in the server
 	-> DELETE - when a client wants to delete info from the server
 
+
+```
 Web tools for current lesson:
 	-> Nodejs
 	-> ExpressJS
@@ -14,3 +16,4 @@ Web server specifics:
 Useful stuff:
 	-> "./" - current directory(this is related to relative paths)
 	-> absolute path: The full path to a certain directory
+```
