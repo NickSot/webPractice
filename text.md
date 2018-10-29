@@ -1,3 +1,4 @@
+```
 HTTP protocol:
 	-> Port: 8080 or 8000
 	-> GET - when a client wants info
@@ -5,7 +6,7 @@ HTTP protocol:
 	-> DELETE - when a client wants to delete info from the server
 
 
-```
+
 Web tools for current lesson:
 	-> Nodejs
 	-> ExpressJS
