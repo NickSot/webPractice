@@ -17,4 +17,6 @@ Web server specifics:
 Useful stuff:
 	-> "./" - current directory(this is related to relative paths)
 	-> absolute path: The full path to a certain directory
+	-> npm - Node Package Manager
+	-> npm install [insert package]
 ```
